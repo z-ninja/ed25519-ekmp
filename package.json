@@ -1,6 +1,6 @@
 {
-  "name": "ED25519-ekpm",
-  "version": "1.0.0",
+  "name": "ed25519-ekpm",
+  "version": "1.0.1",
   "description": "ED25519 expanded key mode signature library",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/z-ninja/ed25519-xpub.git"
+    "url": "git+https://github.com/z-ninja/ed25519-ekpm.git"
   },
   "dependencies": {
   "@stablelib/ed25519":">=0.7.2",
